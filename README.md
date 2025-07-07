@@ -2,7 +2,7 @@
 
 #### Why PhilPapers Must Act Now to Ensure Accountability and Fairness
 
-![alt text](https://github.com/Peter-Kahl/Fiduciary-Governance-Failures-and-Conflicts-of-Interest-at-PhilPapers/blob/main/peer-review-committee.jpg?raw=true)
+![alt text](https://github.com/Peter-Kahl/Fiduciary-Governance-Failures-and-Conflicts-of-Interest-at-PhilPapers/blob/main/dual_roles_at_PhilPapers.jpg?raw=true)
 
 by Peter Kahl; published 5 July 2025
 
@@ -19,12 +19,12 @@ PhilPapers, David Chalmers, David Bourget, fiduciary governance, conflicts of in
 Correspondence regarding this work is welcome.
 
 Download this scholarly work as a PDF for sharing and citation:
-[PDF download](https://raw.githubusercontent.com/Peter-Kahl/Fiduciary-Governance-Failures-and-Conflicts-of-Interest-at-PhilPapers/master/Kahl%20P%2C%20Why%20We%20Must%20Reject%20the%20Colonial%20Peer%20Review%20(5%20July%202025).pdf)
+[PDF download](https://raw.githubusercontent.com/Peter-Kahl/Fiduciary-Governance-Failures-and-Conflicts-of-Interest-at-PhilPapers/master/Kahl_P%2C_Fiduciary_Governance_Failures_and_Conflicts_of_Interest_at_PhilPapers_6_July_2025.pdf)
 
 Cite this work:
 
 ```
-Peter Kahl, ‘Fiduciary Governance Failures and Conflicts of Interest at PhilPapers: Why PhilPapers Must Act Now to Ensure Accountability and Fairness’ (GitHub, 2025) <https://raw.githubusercontent.com/Peter-Kahl/Fiduciary-Governance-Failures-and-Conflicts-of-Interest-at-PhilPapers/master/Kahl%20P%2C%20Why%20We%20Must%20Reject%20the%20Colonial%20Peer%20Review%20(5%20July%202025).pdf>
+Peter Kahl, ‘Fiduciary Governance Failures and Conflicts of Interest at PhilPapers: Why PhilPapers Must Act Now to Ensure Accountability and Fairness’ (GitHub, 2025) <https://raw.githubusercontent.com/Peter-Kahl/Fiduciary-Governance-Failures-and-Conflicts-of-Interest-at-PhilPapers/master/Kahl_P%2C_Fiduciary_Governance_Failures_and_Conflicts_of_Interest_at_PhilPapers_6_July_2025.pdf>
 ```
 
 ### Licence
