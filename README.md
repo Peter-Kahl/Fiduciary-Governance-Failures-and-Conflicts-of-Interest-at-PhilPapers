@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/Peter-Kahl/Fiduciary-Governance-Failures-and-Conflicts-of-Interest-at-PhilPapers/blob/main/dual_roles_at_PhilPapers.jpg?raw=true)
 
-by Peter Kahl; published 5 July 2025
+by Peter Kahl; independent scholar; published 6 July 2025
 
 ### Abstract
 
